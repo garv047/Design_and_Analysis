@@ -31,5 +31,4 @@ gcc filename.c -o output
 This repository is created for learning and practicing different algorithms and understanding their time and space complexity.
 
 ## Author
-
 Garv Bhatia
