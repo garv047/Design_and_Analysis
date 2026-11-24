@@ -1,4 +1,3 @@
-
 pages = list(map(int, input("Enter page reference string: ").split()))
 n = int(input("Enter number of frames: "))
 
