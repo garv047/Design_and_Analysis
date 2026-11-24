@@ -1,4 +1,3 @@
-
 holes = list(map(int, input("Enter memory holes: ").split()))
 process = int(input("Enter process size: "))
 
